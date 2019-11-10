@@ -1,0 +1,6 @@
+/Users/prakharchaturvedi/Projects/Airlines/Airlines/bin/Debug/Airlines.exe
+/Users/prakharchaturvedi/Projects/Airlines/Airlines/bin/Debug/Airlines.pdb
+/Users/prakharchaturvedi/Projects/Airlines/Airlines/obj/x86/Debug/Airlines.csprojAssemblyReference.cache
+/Users/prakharchaturvedi/Projects/Airlines/Airlines/obj/x86/Debug/Airlines.csproj.CoreCompileInputs.cache
+/Users/prakharchaturvedi/Projects/Airlines/Airlines/obj/x86/Debug/Airlines.exe
+/Users/prakharchaturvedi/Projects/Airlines/Airlines/obj/x86/Debug/Airlines.pdb
